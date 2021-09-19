@@ -1,2 +1,2 @@
 # PrintPiFractal
-Printing a "fractal" defined by the digits of the number PI
+Printing a "fractal" defined by the digits of the number PI - using python.
