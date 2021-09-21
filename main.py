@@ -2,6 +2,7 @@ import turtle
 
 
 def configure_turtle():
+    # Some comment
     turtle.tracer(False)
     turtle.colormode(255)
     turtle.mode('logo')  # heading north in the beginning
